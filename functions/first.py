@@ -43,7 +43,7 @@ def display_result(name, marks):
     print("Result:", result)
 
 
-# Program execution starts here
+
 if __name__ == "__main__":
     student_name = "Upasana"
     student_marks = [65, 70, 55, 80, 60]
